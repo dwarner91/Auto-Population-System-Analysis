@@ -12,7 +12,7 @@ The proposed change allows part numbers already recorded in the Part Lookup syst
 
 ## Project Files
 
-- [Auto-populate_Jira_Story](./Auto-populate_Jira_Story.pdf)
+- [Auto-populate_Jira_Story](./Auto-Populated_Jira_Story.pdf)
 - [Auto-Populated Repair Miro Processes](./Auto-Populated_Repair_Miro_Processes.pdf)
 - [Auto-Populated Repair Documentation](./Auto-Populated_Repair_Documentation.pdf)
 
